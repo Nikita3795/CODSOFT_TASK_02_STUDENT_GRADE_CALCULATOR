@@ -6,4 +6,6 @@
 *DOMAIN NAME*: JAVA PROGRAMMING
 
 OUTPUT :
+
+
 ![SGC](https://github.com/user-attachments/assets/92322804-2c6c-4bc0-aa52-efab0a803317)
